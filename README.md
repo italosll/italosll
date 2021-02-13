@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi, I'm Ítalo Silva
 
-<!--
-**italosll/italosll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Studding and working on React and React native.
+- UI and UX matters!
 
-|||||||
-|-|-|-|-|-|-|
-|![](https://onether.com/ether-builder/files/2014/06/1402502066_pencil.png) |Exemplos, são idéias simples que vão me auxíliar futuramente. |![](https://onether.com/ether-builder/files/2014/06/1402502066_pencil.png) | Exemplos, são idéias simples que vão me auxíliar futuramente.|![](https://onether.com/ether-builder/files/2014/06/1402502066_pencil.png) | Exemplos, são idéias simples que vão me auxíliar futuramente.| 
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=italoslld&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/italosll)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italosll&layout=compact&hide_border=true)](https://github.com/italosll)
