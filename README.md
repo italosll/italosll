@@ -1,4 +1,5 @@
 ### Hi, I'm Ítalo Silva
+![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/782?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 - Studding and working on React and React native.
 - UI and UX matters!
